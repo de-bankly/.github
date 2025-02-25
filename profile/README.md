@@ -11,7 +11,7 @@ BankLy ist ein global agierendes Finanzunternehmen mit Fokus auf innovative, dig
 - **Regulatorische Konformität & Datenschutz** nach höchsten Standards  
 
 ## Aktuelles Projekt: *BankLy X*  
-BankLy POS ist eine moderne, vollintegrierte **Kassenplattform**, die nahtlose Transaktionsverarbeitung für Unternehmen jeder Größe bietet. 
+BankLy X ist eine moderne, vollintegrierte **Kassenplattform**, die nahtlose Transaktionsverarbeitung für Unternehmen jeder Größe bietet. 
 - Intuitive Benutzeroberfläche für Kassenpersonal mit leistungsstarkem Backend für Geschäftsinhaber und Management
 - Entwickelt mit BankLy's bewährter Finanzinfrastruktur für maximale Sicherheit bei jeder Zahlung
 - Umfassende Analysetools zur Verfolgung von Verkäufen, Bestandsmanagement und Kundenverhalten in Echtzeit
